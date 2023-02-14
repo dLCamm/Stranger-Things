@@ -1,1 +1,1 @@
-print ('Camilo Efrain de León Sanic. Carnet 1612823')
+print('Camilo Efrain de León Sanic. Carnet 1612823')
